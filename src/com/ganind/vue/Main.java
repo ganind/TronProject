@@ -23,4 +23,10 @@ public class Main {
             System.out.println("LEFT"); // A single line with UP, DOWN, LEFT or RIGHT
         }
     }
+
+    public void findPath() {
+
+
+        System.out.println();
+    }
 }
